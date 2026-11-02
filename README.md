@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Peeyush Yadav
 
-<!--
-**Ps3343/Ps3343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | Excel | SQL | MySQL | Power BI
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring Data Analyst passionate about exploring data, discovering patterns, and transforming raw data into meaningful business insights.
+
+I'm building practical projects to develop my analytical, technical, and problem-solving skills.
+
+---
+
+## 🛠️ Technical Skills
+
+| Tool | Skills |
+|---|---|
+| Microsoft Excel | Data Cleaning, PivotTables, Formulas, Dashboards |
+| SQL / MySQL | Joins, CTEs, Aggregations, Subqueries |
+| Power BI | Currently Learning |
+| Data Analysis | EDA, Business Insights, Data Validation |
+
+---
+
+## 📁 Featured Projects
+
+### 1. Olist E-Commerce Analytics
+
+**Tools:** MySQL, SQL, Microsoft Excel
+
+- Analyzed e-commerce sales and revenue.
+- Performed customer segmentation using RFM analysis.
+- Explored product category performance.
+- Analyzed monthly sales trends.
+- Conducted data quality checks and revenue validation.
+
+🔗 [View Project Repository](https://github.com/Ps3343/olist-ecommerce-analytics)
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Visualization
+- Business Analytics
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: Add your LinkedIn profile link here
+- 🐙 GitHub: https://github.com/Ps3343
+
+---
+
+### 🚀 My Goal
+
+To become a skilled Data Analyst by continuously learning, practicing, and building real-world projects.
+
+*Thank you for visiting my profile!*
+
