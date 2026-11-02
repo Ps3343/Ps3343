@@ -48,7 +48,7 @@ I'm building practical projects to develop my analytical, technical, and problem
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile link here
+- 💼 LinkedIn: https://www.linkedin.com/in/peeyush-yadav-3097bb299/
 - 🐙 GitHub: https://github.com/Ps3343
 
 ---
